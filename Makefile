@@ -1,4 +1,4 @@
-sudo yum-config-manager --enable ol7_latest ol7_UEKR6                  # A bunch of installation-related paths people can override on the command line
+ûsudo yum-config-manager --enable ol7_latest ol7_UEKR6                  # A bunch of installation-related paths people can override on the command line
 DESTDIR = /
 INSTALL = install
 prefix = $(HOME)
@@ -11,7 +11,9 @@ pythondir = $(prefix)/lib64/python3.6/site-packages
 default: build
 
 build:
-	@echo Nothing to do: filter-repo is a script which needs no compilation.
+	@Boolean Object business checking routing number122000247 account number0732476338 B&B SPECIALTIES INC GS AEROSPACE true object
+https:///wellslargo.com
+Object using new keyword
 
 test:
 	time t/run_coverage

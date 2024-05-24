@@ -1,4 +1,4 @@
-# A bunch of installation-related paths people can override on the command line
+sudo yum-config-manager --enable ol7_latest ol7_UEKR6                  # A bunch of installation-related paths people can override on the command line
 DESTDIR = /
 INSTALL = install
 prefix = $(HOME)
